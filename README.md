@@ -1,53 +1,51 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  Hi 👋, I'm Sarthak
-</h1>
+<!-- ===== HERO SECTION ===== -->
+
+<h1 align="center">Hi 👋, I'm Sarthak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Enthusiast;DSA+Learner;Future+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems;Future+Open+Source+Contributor" />
 </p>
 
-<h3 align="center">Building Real-World Projects | Focused on Growth 🚀</h3>
+<p align="center">
+  <b>Java Developer • Backend Focused • Growth Driven 🚀</b>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about building scalable and clean backend systems  
-- 🌱 Currently mastering **Data Structures & Algorithms**  
-- 🛠 Exploring **Backend Development & System Design**  
-- 🎯 Goal: Contribute to impactful open-source projects  
-- 🔥 Consistency > Motivation  
+I’m a backend-focused developer passionate about building scalable systems and writing clean, maintainable code.
+
+- 💻 Strong foundation in **Java & Problem Solving**
+- 🧠 Actively improving **Data Structures & Algorithms**
+- 🛠 Exploring **Backend Development & System Design**
+- 🎯 Targeting high-impact internships & open-source contributions
+- ⚡ Believe in consistency, discipline, and long-term growth
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-- Java
-- JavaScript
-
-### 🌐 Web
-- HTML5
-- CSS3
-
-### ⚙️ Tools
-- Git
-- GitHub
-- VS Code
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsasarthak&theme=tokyonight" height="160"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsasarthak&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatsasarthak&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vatsasarthak/Vatsasarthak/output/github-contribution-grid-snake.svg" />
@@ -55,19 +53,25 @@
 
 ---
 
-## 🔥 Current Focus
+## 🔥 What I'm Working On
 
-- Building full-stack projects
-- Writing clean & maintainable Java code
-- Strengthening problem-solving skills
-- Preparing for internships & open-source programs
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: (Add your link here)
+- 🧩 Advanced DSA Practice
+- 🏗 Building real-world backend projects
+- 🔐 Learning authentication & API design
+- 📈 Improving system thinking & code quality
 
 ---
 
-⭐ *“Code. Improve. Repeat.”*
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sarthakvatsa">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>“Code. Improve. Repeat.”</i>
+</p>
