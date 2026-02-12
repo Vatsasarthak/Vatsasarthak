@@ -32,6 +32,28 @@ I’m a backend-focused developer passionate about building scalable systems and
 
 ---
 
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/Sarthak_vatsa/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <a href="https://www.codechef.com/users/vatsa_sarthak">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
+  </a>
+
+  <a href="https://takeuforward.org/strivers-a2z-dsa-course/">
+    <img src="https://img.shields.io/badge/Striver-A2Z%20DSA-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -55,10 +77,10 @@ I’m a backend-focused developer passionate about building scalable systems and
 
 ## 🔥 What I'm Working On
 
-- 🧩 Advanced DSA Practice
-- 🏗 Building real-world backend projects
-- 🔐 Learning authentication & API design
-- 📈 Improving system thinking & code quality
+- 🧩 Advanced DSA Practice  
+- 🏗 Building real-world backend projects  
+- 🔐 Learning authentication & API design  
+- 📈 Improving system thinking & code quality  
 
 ---
 
@@ -68,10 +90,18 @@ I’m a backend-focused developer passionate about building scalable systems and
   <a href="https://linkedin.com/in/sarthakvatsa">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  <a href="mailto:vatsaroysarthak0007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <i>“Code. Improve. Repeat.”</i>
+  ⭐ <i>Code. Improve. Repeat.</i>
 </p>
