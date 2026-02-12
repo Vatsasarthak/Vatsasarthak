@@ -1,40 +1,73 @@
-# Hi 👋 I'm Sarthak
+<!-- Animated Typing Header -->
+<h1 align="center">
+  Hi 👋, I'm Sarthak
+</h1>
 
-💻 Java Developer | Web Developer  
-🚀 Learning Data Structures & Open Source  
-📍 India  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Enthusiast;DSA+Learner;Future+Open+Source+Contributor" />
+</p>
 
----
-
-## 🧠 About Me
-- 🔥 Currently solving problems on LeetCode
-- 🌱 Learning Java + DSA
-- 🎯 Goal: Crack GSoC / Internship
-- ⚡ Fun fact: I love building real-world projects
+<h3 align="center">Building Real-World Projects | Focused on Growth 🚀</h3>
 
 ---
 
-## 🏆 LeetCode Stats
+## 🚀 About Me
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME)
+- 💻 Passionate about building scalable and clean backend systems  
+- 🌱 Currently mastering **Data Structures & Algorithms**  
+- 🛠 Exploring **Backend Development & System Design**  
+- 🎯 Goal: Contribute to impactful open-source projects  
+- 🔥 Consistency > Motivation  
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
+
+### 💻 Languages
 - Java
-- HTML
-- CSS
 - JavaScript
-- Git & GitHub
+
+### 🌐 Web
+- HTML5
+- CSS3
+
+### ⚙️ Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsasarthak&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vatsasarthak/Vatsasarthak/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Building full-stack projects
+- Writing clean & maintainable Java code
+- Strengthening problem-solving skills
+- Preparing for internships & open-source programs
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link here)
-- LeetCode: https://leetcode.com/YOUR_USERNAME
+
+- LinkedIn: (Add your link here)
+
+---
+
+⭐ *“Code. Improve. Repeat.”*
