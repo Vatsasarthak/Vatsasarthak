@@ -35,7 +35,7 @@ I’m a backend-focused developer passionate about building scalable systems and
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/Sarthak_vatsa/">
+  <a href="https://leetcode.com/u/Sarthak_vatsa/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 
