@@ -49,8 +49,20 @@ I’m a backend-focused developer passionate about building scalable systems and
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=heatmap" />
 </p>
+
+---
+
+## 🏅 Achievements & Milestones
+
+- 🧠 Actively solving **DSA problems on LeetCode**
+- ⭐ Regular participant in **CodeChef contests**
+- 📘 Following **Striver A2Z DSA Sheet** (structured problem-solving)
+- 🛠 Built multiple **real-world projects using Java & Web technologies**
+- 📈 Maintaining consistency with daily learning & GitHub contributions
+
+> *(Achievements will be updated as I progress)*
 
 ---
 
