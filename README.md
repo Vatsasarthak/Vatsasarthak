@@ -64,11 +64,12 @@ I’m a backend-focused developer passionate about building scalable systems and
 </p>
 
 <!-- ===== LEETCODE STREAK ===== -->
+<!-- ===== LEETCODE STATS + STREAK (WORKING) ===== -->
 
 <p align="center">
   <img 
-    src="https://leetcode-stats-six.vercel.app/api?username=Sarthak_vatsa&theme=dark" 
-    alt="LeetCode Streak"
+    src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=heatmap&border=0&radius=20"
+    alt="LeetCode Stats & Streak"
   />
 </p>
 
