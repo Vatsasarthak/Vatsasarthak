@@ -54,10 +54,21 @@ I’m a backend-focused developer passionate about building scalable systems and
   </a>
 </p>
 
+<!-- ===== LEETCODE STATS ===== -->
+
 <p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=heatmap" 
     alt="LeetCode Stats"
+  />
+</p>
+
+<!-- ===== LEETCODE STREAK ===== -->
+
+<p align="center">
+  <img 
+    src="https://leetcode-stats-six.vercel.app/api?username=Sarthak_vatsa&theme=dark" 
+    alt="LeetCode Streak"
   />
 </p>
 
