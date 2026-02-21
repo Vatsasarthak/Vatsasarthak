@@ -54,6 +54,17 @@ I’m a backend-focused developer passionate about building scalable systems and
   </a>
 </p>
 
+---
+
+## 🔥 LeetCode Streak & Stats
+
+<p align="center">
+  <img 
+    src="https://leetcode-stats-six.vercel.app/api?username=Sarthak_vatsa&theme=dark" 
+    alt="LeetCode Streak"
+  />
+</p>
+
 <p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=heatmap" 
@@ -72,6 +83,17 @@ I’m a backend-focused developer passionate about building scalable systems and
 - 📈 Maintaining consistency with daily learning & GitHub contributions
 
 > *(Achievements will be updated as I progress)*
+
+---
+
+## 🏆 GitHub Trophies (Medals)
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Vatsasarthak&theme=tokyonight&no-frame=true&row=1&column=6" 
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
@@ -139,4 +161,4 @@ I’m a backend-focused developer passionate about building scalable systems and
 
 <p align="center">
   ⭐ <i>Code. Improve. Repeat.</i>
-</p> i want to add the my leetcode streak too add that user name is mentioned in the code just add and give me the full code 
+</p>
