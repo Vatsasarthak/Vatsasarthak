@@ -5,7 +5,6 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems;Future+Open+Source+Contributor" 
-    alt="Typing SVG"
   />
 </p>
 
@@ -45,34 +44,23 @@ I’m a backend-focused developer passionate about building scalable systems and
   <a href="https://www.codechef.com/users/vatsa_sarthak" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
   </a>
-
-  <a href="https://takeuforward.org/strivers-a2z-dsa-course/" target="_blank">
-    <img src="https://img.shields.io/badge/Striver-A2Z%20DSA-blue?style=for-the-badge" />
-  </a>
 </p>
 
 ---
 
-## 🔥 LeetCode Streak & Stats
+## 🔥 LeetCode Badges & Stats (Verified)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-View-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/DSA-Consistent-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active%20Learner-Java-success?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=heatmap" 
-    alt="LeetCode Stats"
   />
 </p>
-
----
-
-## 🏅 Achievements & Milestones
-
-- 🧠 Actively solving **DSA problems on LeetCode**
-- ⭐ Regular participant in **CodeChef contests**
-- 📘 Following **Striver A2Z DSA Sheet**
-- 🛠 Built multiple **real-world projects using Java & Web technologies**
-- 📈 Maintaining consistency with daily learning & GitHub contributions
-
-> *(Achievements will be updated as I progress)*
 
 ---
 
@@ -117,27 +105,16 @@ I’m a backend-focused developer passionate about building scalable systems and
 
 ---
 
-## 🔥 What I'm Working On
-
-- 🧩 Advanced DSA Practice  
-- 🏗 Building real-world backend projects  
-- 🔐 Learning authentication & API design  
-- 📈 Improving system thinking & code quality  
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarthakvatsa" target="_blank">
+  <a href="https://linkedin.com/in/sarthakvatsa">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="mailto:vatsaroysarthak0007@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
-  <a href="https://instagram.com/vatsa_sarthak" target="_blank">
+  <a href="https://instagram.com/vatsa_sarthak">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
