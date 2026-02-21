@@ -30,10 +30,7 @@ I’m a backend-focused developer passionate about building scalable systems and
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark" 
-    alt="Tech Stack"
-  />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -60,13 +57,6 @@ I’m a backend-focused developer passionate about building scalable systems and
 
 <p align="center">
   <img 
-    src="https://leetcode-stats-six.vercel.app/api?username=Sarthak_vatsa&theme=dark" 
-    alt="LeetCode Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=heatmap" 
     alt="LeetCode Stats"
   />
@@ -90,8 +80,7 @@ I’m a backend-focused developer passionate about building scalable systems and
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Vatsasarthak&theme=tokyonight&no-frame=true&row=1&column=6" 
-    alt="GitHub Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=Vatsasarthak&theme=tokyonight&no-frame=true&margin-w=10" 
   />
 </p>
 
@@ -103,19 +92,16 @@ I’m a backend-focused developer passionate about building scalable systems and
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight&hide_border=true" 
     height="165"
-    alt="GitHub Stats"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsasarthak&theme=tokyonight&hide_border=true" 
     height="165"
-    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Vatsasarthak&theme=tokyo-night&hide_border=true" 
-    alt="Contribution Graph"
   />
 </p>
 
@@ -126,7 +112,6 @@ I’m a backend-focused developer passionate about building scalable systems and
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Vatsasarthak/Vatsasarthak/output/github-contribution-grid-snake.svg" 
-    alt="Contribution Snake"
   />
 </p>
 
@@ -145,15 +130,15 @@ I’m a backend-focused developer passionate about building scalable systems and
 
 <p align="center">
   <a href="https://linkedin.com/in/sarthakvatsa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <a href="mailto:vatsaroysarthak0007@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
   <a href="https://instagram.com/vatsa_sarthak" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
