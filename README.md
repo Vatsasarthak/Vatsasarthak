@@ -111,7 +111,7 @@ I’m a backend-focused developer passionate about building scalable systems and
   <a href="https://linkedin.com/in/sarthakvatsa">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:vatsaroysarthak0007@gmail.com">
+  <a href="mailto:vatsasarthak2002@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://instagram.com/vatsa_sarthak">
