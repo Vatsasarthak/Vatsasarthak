@@ -107,5 +107,5 @@
 ---
 
 <p align="center">
-⭐ <i>Code. Improve. Repeat.</i>
+⭐ <i>Code. Eat. Repeat.</i>
 </p>
