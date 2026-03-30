@@ -38,8 +38,8 @@
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
-<a href="https://www.codechef.com/users/vatsa_sarthak" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
+<a href="[https://www.geeksforgeeks.org/user/YOUR_USERNAME/](https://www.geeksforgeeks.org/profile/vatsasarthak?tab=overview)" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </p>
