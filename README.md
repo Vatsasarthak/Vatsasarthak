@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F172A,20:111827,40:0EA5E9,60:2563EB,80:7C3AED,100:9333EA&text=Sarthak%20Vatsa&fontSize=65&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Java%20Backend%20Developer%20🚀&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:0F172A,20:111827,40:0EA5E9,60:2563EB,80:7C3AED,100:9333EA&text=Sarthak%20Vatsa&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Java%20Backend%20Developer%20🚀&descAlignY=64&descAlign=50"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=💻+Java+Backend+Developer;🚀+Building+Scalable+Backend+Systems;🧠+Data+Structures+%26+Algorithms+Enthusiast;⚡+Open+Source+%7C+Problem+Solving;🔥+Consistency+Creates+Mastery" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&lines=💻+Java+Backend+Developer;🚀+Building+Scalable+Systems;🧠+DSA+%7C+Backend+%7C+Open+Source;⚡+Consistency+%3D+Growth;🔥+Always+Learning+New+Things"/>
 
 <br/><br/>
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="420"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
 
 <br/><br/>
 
@@ -32,6 +32,8 @@
 
 </div>
 
+<br/>
+
 ```yaml
 Name: Sarthak Vatsa
 
@@ -40,28 +42,29 @@ Role:
 
 Focus:
   - Backend Development
-  - System Design
   - Data Structures & Algorithms
   - Open Source
+  - System Design
 
 Currently Learning:
   - Spring Boot
   - Microservices
   - Scalable Systems
+  - Advanced DSA
 
 Mindset:
   - Consistency
   - Discipline
-  - Long-Term Growth
+  - Growth
 ```
 
 ---
 
-# ⚔️ Tech Arsenal
+# ⚔️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,mongodb,git,github,idea,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,mongodb,git,github,idea,vscode,postman&theme=dark"/>
 
 <br/><br/>
 
@@ -91,17 +94,7 @@ Mindset:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=contest,heatmap"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vatsasarthak/Vatsasarthak/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=heatmap"/>
 
 </div>
 
@@ -127,18 +120,28 @@ Mindset:
 
 <div align="center">
 
-<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/working-system.gif" width="320"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340"/>
 
 </div>
 
 ```diff
 + Master Backend Development
-+ Build Scalable Systems
++ Build Real World Projects
 + Improve DSA Problem Solving
-+ Learn Advanced System Design
++ Learn System Design
 + Contribute to Open Source
 + Become Industry Ready
 ```
+
+---
+
+# ⚡ Coding Universe
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="520"/>
+
+</div>
 
 ---
 
@@ -176,15 +179,11 @@ Mindset:
 
 ---
 
-# ⚡ Fun Zone
+# ⚡ Random Dev Quote
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight"/>
-
-<br/><br/>
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="280"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -194,6 +193,6 @@ Mindset:
 
 # 🚀 Code • Learn • Build • Repeat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0F172A,20:111827,40:0EA5E9,60:2563EB,80:7C3AED,100:9333EA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0F172A,20:111827,40:0EA5E9,60:2563EB,80:7C3AED,100:9333EA"/>
 
 </div>
