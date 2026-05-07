@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="430"/>
 
 <br/><br/>
 
