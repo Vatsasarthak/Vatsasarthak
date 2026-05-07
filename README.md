@@ -1,111 +1,199 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ========================= HERO SECTION ========================= -->
 
-<h1 align="center">Hi 👋, I'm Sarthak vatsa </h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems;Future+Open+Source+Contributor" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F172A,20:111827,40:0EA5E9,60:2563EB,80:7C3AED,100:9333EA&text=Sarthak%20Vatsa&fontSize=65&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Java%20Backend%20Developer%20🚀&descAlignY=60&descAlign=50"/>
 
-<p align="center">
-<b>Java Developer • Backend Focused • Growth Driven 🚀</b>
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=💻+Java+Backend+Developer;🚀+Building+Scalable+Backend+Systems;🧠+Data+Structures+%26+Algorithms+Enthusiast;⚡+Open+Source+%7C+Problem+Solving;🔥+Consistency+Creates+Mastery" />
+
+<br/><br/>
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="420"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vatsasarthak&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Vatsasarthak?style=for-the-badge&color=7C3AED&labelColor=111827"/>
+
+<img src="https://img.shields.io/github/stars/Vatsasarthak?style=for-the-badge&color=F59E0B&labelColor=111827"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 🌌 About Me
 
-* 💻 Backend-focused developer passionate about building **scalable systems**
-* 🧠 Strong focus on **Data Structures & Algorithms**
-* 🛠 Currently exploring **Backend Development & System Design**
-* 🎯 Targeting **high-impact internships & open-source contributions**
-* ⚡ Believe in **consistency, discipline, and long-term growth**
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+```yaml
+Name: Sarthak Vatsa
+
+Role:
+  - Java Backend Developer
+
+Focus:
+  - Backend Development
+  - System Design
+  - Data Structures & Algorithms
+  - Open Source
+
+Currently Learning:
+  - Spring Boot
+  - Microservices
+  - Scalable Systems
+
+Mindset:
+  - Consistency
+  - Discipline
+  - Long-Term Growth
+```
 
 ---
 
-# 🛠 Tech Stack
+# ⚔️ Tech Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,mongodb,git,github,idea,vscode,postman&theme=dark" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vatsasarthak&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🏆 Competitive Programming
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/Sarthak_vatsa/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/LeetCode-Sarthak__vatsa-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="[https://www.geeksforgeeks.org/user/YOUR_USERNAME/](https://www.geeksforgeeks.org/profile/vatsasarthak?tab=overview)" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<a href="https://www.geeksforgeeks.org/profile/vatsasarthak?tab=overview" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Vatsasarthak-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🔥 LeetCode Stats
+# 🔥 LeetCode Heatmap
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=heatmap" />
-</p>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=contest,heatmap"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake Animation
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vatsasarthak&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vatsasarthak/Vatsasarthak/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight&hide_border=true&border_radius=22"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsasarthak&theme=tokyonight&hide_border=true" height="165"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsasarthak&theme=tokyonight&hide_border=true&border_radius=22"/>
 
-</p>
+<br/><br/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatsasarthak&theme=tokyo-night&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatsasarthak&theme=tokyo-night&hide_border=true&radius=18"/>
+
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🚀 Current Mission
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Vatsasarthak/Vatsasarthak/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/working-system.gif" width="320"/>
+
+</div>
+
+```diff
++ Master Backend Development
++ Build Scalable Systems
++ Improve DSA Problem Solving
++ Learn Advanced System Design
++ Contribute to Open Source
++ Become Industry Ready
+```
+
+---
+
+# 🧠 Developer Mindset
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/sarthakvatsa">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="62"/>
 </a>
 
 <a href="mailto:vatsasarthak2002@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" width="62"/>
 </a>
 
 <a href="https://instagram.com/vatsa_sarthak">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=instagram" width="62"/>
 </a>
 
-</p>
+<a href="https://github.com/Vatsasarthak">
+<img src="https://skillicons.dev/icons?i=github" width="62"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-⭐ <i>Code. Improve. Repeat.</i>
-</p>
+# ⚡ Fun Zone
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight"/>
+
+<br/><br/>
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="280"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Code • Learn • Build • Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0F172A,20:111827,40:0EA5E9,60:2563EB,80:7C3AED,100:9333EA"/>
+
+</div>
