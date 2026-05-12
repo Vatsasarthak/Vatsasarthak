@@ -35,7 +35,7 @@
 <br/>
 
 ```yaml
-Name: Sarthak Vatsa
+Name: Sarthak Vats
 
 Role:
   - Java Backend Developer
