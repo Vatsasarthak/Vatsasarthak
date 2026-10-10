@@ -1,67 +1,133 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,40:0EA5E9,70:2563EB,100:7C3AED&text=Sarthak%20Vatsa&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Java%20Backend%20Developer%20🚀&descAlignY=70"/>
+# 👋 Hi, I'm Sarthak Vatsa
 
-<br/>
+### Backend-focused Software Engineer | Java • Spring Boot • DSA
 
-# 👨‍💻 Sarthak Vatsa
-
-Java Backend Developer | DSA Enthusiast | Open Source Contributor
+Computer Science & Engineering student focused on backend development, problem-solving, and building reliable software applications.
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 💫 About Me
 
-- 💻 Passionate about Backend Development & Scalable Systems  
-- 🧠 Regularly solving DSA problems on LeetCode & GeeksforGeeks  
-- ⚡ Building real-world projects and improving problem-solving skills  
-- 🌱 Currently learning Spring Boot, System Design & Microservices  
+- 🔭 **Currently working on:** PaySentinel — Reliable Payment Processing & Ledger Reconciliation
+- 🤝 **Looking to collaborate on:** Java, backend development, and software engineering projects
+- 🌱 **Currently learning:** Data Structures & Algorithms, Spring Boot, and System Design
+- 💬 **Ask me about:** Java, REST APIs, SQL, Git, and backend development
+- 🎯 **Focus:** Strengthening problem-solving skills and preparing for Software Engineering roles
 
 ---
 
-# 🏆 LeetCode Stats
+## 🚀 Featured Projects
+
+### 💳 PaySentinel — Payment Processing & Ledger Reconciliation
+
+[![GitHub](https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak/PaySentinel)
+
+**Java 21 • Spring Boot • PostgreSQL • Redis • Flyway • Docker**
+
+- Built a backend payment-processing system to explore reliable payout workflows.
+- Implemented API-key authentication and role-based access control.
+- Applied the Transactional Outbox Pattern to payout workflows.
+- Added ledger management and reconciliation checks.
+- Included retry and recovery workflows with a simulated payment provider.
+- Documented architecture and API usage.
+
+> Note: This project uses a simulated payment provider and does not process real payments.
+
+---
+
+## 🧠 DSA Practice
+
+[![LeetCode](https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+**Java • Data Structures • Algorithms • Problem Solving**
+
+Consistently practicing DSA and solving coding problems to improve algorithmic thinking and prepare for technical interviews.
+
+**300+ LeetCode problems solved**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/SPRING_DATA_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Databases & Caching
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Core Concepts
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- REST API Design
+- Database Management
+- Backend Development
+- System Design fundamentals
+
+---
+
+## 🏆 Achievements
+
+- 🧠 **300+** LeetCode problems solved
+- 💻 Built PaySentinel, a backend payment-processing project
+- 📚 Continuously learning Java, backend engineering, and software design
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
+[![LeetCode](https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Sarthak_vatsa/" target="_blank">
-<img src="https://leetcard.jacoblin.cool/Sarthak_vatsa?theme=dark&font=baloo&ext=contest"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight&hide_border=true)
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatsasarthak&theme=tokyo-night&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsasarthak&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-# ⚙️ Tech Stack
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,js,git,github,postman,vscode,idea&theme=dark"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/sarthakvatsa">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="mailto:vatsasarthak2002@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-<a href="https://github.com/Vatsasarthak">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=Vatsasarthak&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -69,6 +135,6 @@ Java Backend Developer | DSA Enthusiast | Open Source Contributor
 
 <div align="center">
 
-### 🚀 Code • Learn • Build • Repeat
+**Learning by building. Improving one problem at a time. 🚀**
 
 </div>
