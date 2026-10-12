@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Sarthak Vatsa
 
@@ -18,7 +17,8 @@ I'm an Information Science Engineering student passionate about software develop
 ## 💫 About Me
 
 - 🎓 **Education:** Information Science Engineering
-- 🔭 **Currently working on:** PaySentinel — Payment Processing & Ledger Reconciliation
+- 🔭 **Backend Project:** PaySentinel — Payment Processing & Ledger Reconciliation
+- 🧩 **Browser Extension:** GitSync — Multi-Platform Coding Solution Sync
 - 💻 **Problem Solving:** 300+ LeetCode problems solved
 - 🌱 **Currently learning:** Java, Spring Boot, DSA, and System Design
 - 🤝 **Looking to collaborate on:** Backend development and software engineering projects
@@ -28,13 +28,13 @@ I'm an Information Science Engineering student passionate about software develop
 
 ## 🚀 Featured Projects
 
-### 💳 PaySentinel — Payment Processing & Ledger Reconciliation
+### 💳 1. PaySentinel — Payment Processing & Ledger Reconciliation
 
-[![GitHub](https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak/PaySentinel)
+[![GitHub Repository](https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak/PaySentinel)
 
 **Java 21 • Spring Boot • PostgreSQL • Redis • Flyway • Docker**
 
-A backend project exploring reliable payout processing, API security, and financial data consistency.
+A backend engineering project exploring reliable payout processing, API security, and financial data consistency.
 
 - Implemented API-key authentication and role-based access control.
 - Applied the Transactional Outbox Pattern to payout workflows.
@@ -43,7 +43,32 @@ A backend project exploring reliable payout processing, API security, and financ
 - Used PostgreSQL, Redis, Flyway, and Docker.
 - Added automated tests and architecture documentation.
 
-> Note: PaySentinel uses a simulated payment provider and does not process real payments.
+> **Note:** PaySentinel uses a simulated payment provider and does not process real payments.
+
+### 🔄 2. GitSync — Multi-Platform Coding Solution Sync Extension
+
+[![GitHub Repository](https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak/GitSync)
+
+**JavaScript • Node.js • Express.js • Chrome Extension API • GitHub REST API • OAuth • Manifest V3**
+
+GitSync is a browser extension project designed to simplify the process of maintaining a GitHub repository of competitive programming solutions.
+
+**Key Features**
+
+- 🌐 **Multi-platform support:** GeeksforGeeks, LeetCode, CodeChef, Codeforces, and HackerRank.
+- 🔄 **Solution synchronization:** Helps transfer accepted coding solutions to GitHub.
+- 🔐 **GitHub integration:** Uses GitHub authentication and API integration for repository operations.
+- 📂 **Organized solutions:** Helps maintain coding solutions organized by platform.
+- 🛡️ **Duplicate handling:** Supports avoiding duplicate solution uploads.
+- 📥 **Offline queue:** Supports queuing solutions when synchronization is unavailable.
+- ⚡ **Retry mechanism:** Supports recovery from failed synchronization attempts.
+- 🎯 **Manual synchronization:** Allows users to trigger synchronization when needed.
+
+**Tech Stack**
+
+- **Browser Extension:** JavaScript, Chrome Extension APIs, Manifest V3
+- **Backend:** Node.js, Express.js
+- **Integration:** GitHub REST API and OAuth
 
 ---
 
@@ -54,8 +79,9 @@ A backend project exploring reliable payout processing, API security, and financ
 **Java • Data Structures • Algorithms • Problem Solving**
 
 - Solved **300+ LeetCode problems**.
-- Practicing algorithmic thinking and coding interview questions.
-- Continuously improving problem-solving skills using Java.
+- Practice data structures and algorithms using Java.
+- Work on coding interview questions and algorithmic problem-solving.
+- Continuously improve code quality, efficiency, and analytical thinking.
 
 ---
 
@@ -72,6 +98,8 @@ A backend project exploring reliable payout processing, API security, and financ
 ### Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![Spring Data JPA](https://img.shields.io/badge/SPRING_DATA_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -96,7 +124,8 @@ A backend project exploring reliable payout processing, API security, and financ
 - 🥇 **1st Prize — VTU State-Level Ideathon**
 - 🏆 **Winner — Machine Learning Exhibition**, Atria Institute of Technology
 - 🧠 **300+ LeetCode problems solved**
-- 💻 Built PaySentinel to explore backend engineering and reliable payment workflows.
+- 💳 Developed PaySentinel to explore reliable backend engineering and financial workflows.
+- 🔄 Built GitSync to streamline coding solution synchronization with GitHub.
 
 ---
 
