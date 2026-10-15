@@ -17,18 +17,42 @@ I'm an Information Science Engineering student passionate about software develop
 ## 💫 About Me
 
 - 🎓 **Education:** Information Science Engineering
-- 🔭 **Backend Project:** PaySentinel — Payment Processing & Ledger Reconciliation
-- 🧩 **Browser Extension:** GitSync — Multi-Platform Coding Solution Sync
+- 💼 **Career Focus:** Software Engineering and Backend Development
+- 🔔 **Backend Project:** [Notifyr — Reliable Notification Delivery Platform](https://github.com/Vatsasarthak/Notifyr)
+- 💳 **Backend Project:** [PaySentinel — Payment Processing & Ledger Reconciliation](https://github.com/Vatsasarthak/PaySentinel)
+- 🧩 **Browser Extension:** [GitSync — Multi-Platform Coding Solution Sync](https://github.com/Vatsasarthak/GitSync)
 - 💻 **Problem Solving:** 300+ LeetCode problems solved
 - 🌱 **Currently learning:** Java, Spring Boot, DSA, and System Design
 - 🤝 **Looking to collaborate on:** Backend development and software engineering projects
-- 🎯 **Career Focus:** Software Engineering and Backend Development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💳 1. PaySentinel — Payment Processing & Ledger Reconciliation
+### 🔔 1. Notifyr — Reliable Notification Delivery Platform
+
+[![GitHub Repository](https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak/Notifyr)
+
+**Java 21 • Spring Boot • PostgreSQL • RabbitMQ • Redis • Docker • GitHub Actions**
+
+A backend notification platform focused on reliable message processing, fault recovery, and delivery workflow consistency using distributed systems patterns.
+
+**Key Features**
+
+- 📦 **Transactional Outbox Pattern:** Coordinates database updates and event publishing to help reduce message loss.
+- 🔁 **Idempotency:** Helps prevent duplicate processing of repeated requests.
+- 📨 **Asynchronous Processing:** Uses RabbitMQ to decouple API requests from notification processing.
+- ♻️ **Retry & Recovery:** Supports retry workflows and recovery from processing failures.
+- 🚨 **Dead-Letter Queue (DLQ):** Supports handling messages that cannot be processed successfully.
+- 📊 **Observability:** Provides application monitoring and operational visibility.
+- 🐳 **Dockerized Setup:** Supports containerized development and testing.
+- ✅ **Automated Testing & CI:** Includes automated tests and a GitHub Actions workflow.
+
+**Engineering Focus:** Reliable asynchronous processing, idempotency, failure recovery, and distributed systems fundamentals.
+
+---
+
+### 💳 2. PaySentinel — Payment Processing & Ledger Reconciliation
 
 [![GitHub Repository](https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak/PaySentinel)
 
@@ -36,30 +60,35 @@ I'm an Information Science Engineering student passionate about software develop
 
 A backend engineering project exploring reliable payout processing, API security, and financial data consistency.
 
-- Implemented API-key authentication and role-based access control.
-- Applied the Transactional Outbox Pattern to payout workflows.
-- Developed ledger management and reconciliation checks.
-- Included retry and recovery workflows.
-- Used PostgreSQL, Redis, Flyway, and Docker.
-- Added automated tests and architecture documentation.
+**Key Features**
+
+- 🔐 API-key authentication and role-based access control.
+- 📦 Transactional Outbox Pattern for payout workflows.
+- 📒 Ledger management and reconciliation checks.
+- ♻️ Retry and recovery workflows.
+- 🗄️ Database migrations using Flyway.
+- 🧪 Automated tests and architecture documentation.
+- 🐳 Containerized development using Docker.
 
 > **Note:** PaySentinel uses a simulated payment provider and does not process real payments.
 
-### 🔄 2. GitSync — Multi-Platform Coding Solution Sync Extension
+---
+
+### 🔄 3. GitSync — Multi-Platform Coding Solution Sync Extension
 
 [![GitHub Repository](https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak/GitSync)
 
 **JavaScript • Node.js • Express.js • Chrome Extension API • GitHub REST API • OAuth • Manifest V3**
 
-GitSync is a browser extension project designed to simplify the process of maintaining a GitHub repository of competitive programming solutions.
+GitSync is a browser extension project designed to simplify maintaining a GitHub repository of competitive programming solutions.
 
 **Key Features**
 
 - 🌐 **Multi-platform support:** GeeksforGeeks, LeetCode, CodeChef, Codeforces, and HackerRank.
-- 🔄 **Solution synchronization:** Helps transfer accepted coding solutions to GitHub.
+- 🔄 **Solution synchronization:** Helps transfer coding solutions to GitHub.
 - 🔐 **GitHub integration:** Uses GitHub authentication and API integration for repository operations.
-- 📂 **Organized solutions:** Helps maintain coding solutions organized by platform.
-- 🛡️ **Duplicate handling:** Supports avoiding duplicate solution uploads.
+- 📂 **Organized solutions:** Organizes solutions by coding platform.
+- 🛡️ **Duplicate handling:** Supports duplicate prevention during synchronization.
 - 📥 **Offline queue:** Supports queuing solutions when synchronization is unavailable.
 - ⚡ **Retry mechanism:** Supports recovery from failed synchronization attempts.
 - 🎯 **Manual synchronization:** Allows users to trigger synchronization when needed.
@@ -109,12 +138,19 @@ GitSync is a browser extension project designed to simplify the process of maint
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### Messaging & Distributed Systems
+
+![RabbitMQ](https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Transactional Outbox](https://img.shields.io/badge/TRANSACTIONAL_OUTBOX-34495E?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-5C6BC0?style=for-the-badge)
+
 ### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -124,7 +160,8 @@ GitSync is a browser extension project designed to simplify the process of maint
 - 🥇 **1st Prize — VTU State-Level Ideathon**
 - 🏆 **Winner — Machine Learning Exhibition**, Atria Institute of Technology
 - 🧠 **300+ LeetCode problems solved**
-- 💳 Developed PaySentinel to explore reliable backend engineering and financial workflows.
+- 🔔 Built Notifyr to explore reliable asynchronous notification processing.
+- 💳 Developed PaySentinel to explore payment workflows and ledger reconciliation.
 - 🔄 Built GitSync to streamline coding solution synchronization with GitHub.
 
 ---
