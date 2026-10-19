@@ -18,7 +18,7 @@ I'm an Information Science Engineering student passionate about software develop
 
 - 🎓 **Education:** Information Science Engineering
 - 💼 **Career Focus:** Software Engineering and Backend Development
-- 🔔 **Backend Project:** [Notifyr — Reliable Notification Delivery Platform](https://github.com/Vatsasarthak/Notifyr)
+- 🔔 **Backend Project:** [RelayForge — Notification Delivery Platform](https://github.com/Vatsasarthak/RelayForge)
 - 💳 **Backend Project:** [PaySentinel — Payment Processing & Ledger Reconciliation](https://github.com/Vatsasarthak/PaySentinel)
 - 🧩 **Browser Extension:** [GitSync — Multi-Platform Coding Solution Sync](https://github.com/Vatsasarthak/GitSync)
 - 💻 **Problem Solving:** 300+ LeetCode problems solved
@@ -29,7 +29,7 @@ I'm an Information Science Engineering student passionate about software develop
 
 ## 🚀 Featured Projects
 
-### 🔔 1. Notifyr — Reliable Notification Delivery Platform
+### 🔔 1. RelayForge — Notification Delivery Platform
 
 [![GitHub Repository](https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak/Notifyr)
 
