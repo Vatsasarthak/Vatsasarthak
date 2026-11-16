@@ -21,7 +21,7 @@ I'm an Information Science Engineering student passionate about software develop
 - 🔔 **Backend Project:** [RelayForge — Notification Delivery Platform](https://github.com/Vatsasarthak/RelayForge)
 - 💳 **Backend Project:** [PaySentinel — Payment Processing & Ledger Reconciliation](https://github.com/Vatsasarthak/PaySentinel)
 - 🧩 **Browser Extension:** [GitSync — Multi-Platform Coding Solution Sync](https://github.com/Vatsasarthak/GitSync)
-- 💻 **Problem Solving:** 300+ LeetCode problems solved
+- 💻 **Problem Solving:** 350+ LeetCode problems solved
 - 🌱 **Currently learning:** Java, Spring Boot, DSA, and System Design
 - 🤝 **Looking to collaborate on:** Backend development and software engineering projects
 
