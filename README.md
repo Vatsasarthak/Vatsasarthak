@@ -1,5 +1,3 @@
- <div align="center">
-
 # 👋 Hi, I'm Sarthak Vatsa
 
 ### Information Science Engineering Student | Java • Backend Development • DSA
@@ -9,8 +7,6 @@ I'm an Information Science Engineering student passionate about software develop
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarthakvatsa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sarthak_vatsa/)
-
-</div>
 
 ---
 
@@ -168,44 +164,32 @@ GitSync is a browser extension project designed to simplify maintaining a GitHub
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GITHUB-VATSASARTHAK-181717?style=for-the-badge&logo=github)](https://github.com/Vatsasarthak)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-SARTHAKVATSA-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarthakvatsa)
 
 [![LeetCode](https://img.shields.io/badge/LEETCODE-SARTHAK_VATSA-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Sarthak_vatsa/)
 
-</div>
-
 ---
-
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujadebnath22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujadebnath22&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsasarthak&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pujadebnath22&theme=tokyonight&hide_border=true)
-
-</div>
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vatsasarthak&theme=tokyonight&hide_border=true)
 
 ---
 
-<div align="center">
+## 📈 GitHub Contributions
+
+![GitHub Contributions](https://ghchart.rshah.org/22c55e/Vatsasarthak)
+
+---
 
 **Learning by building. Growing through problem-solving. 🚀**
-
-</div>
