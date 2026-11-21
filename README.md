@@ -180,13 +180,14 @@ GitSync is a browser extension project designed to simplify maintaining a GitHub
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsasarthak&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujadebnath22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsasarthak&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujadebnath22&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -196,9 +197,10 @@ GitSync is a browser extension project designed to simplify maintaining a GitHub
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vatsasarthak&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=pujadebnath22&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 ---
 
